@@ -1,0 +1,3 @@
+aluno1@gmail.com;1234;Aluno1;2025-09-25
+aluno2@senai.com;1234;Aluno2;2025-09-25
+aluno3@senai.com;123;Aluno3;2025-09-25
